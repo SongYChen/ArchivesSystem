@@ -1,0 +1,14 @@
+<RCC>
+  <qresource prefix="new">
+    <file>welcome_3.gif</file>
+    <file>welcome_2.png</file>
+    <file>setting.png</file>
+    <file>dialog.png</file>
+    <file>manual.png</file>
+    <file>main.png</file>
+    <file>login.png</file>
+    <file>welcome.png</file>
+    <file>home.jpg</file>
+    <file>colors.png</file>
+  </qresource>
+</RCC>

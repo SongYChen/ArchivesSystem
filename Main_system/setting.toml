@@ -1,0 +1,14 @@
+server_host = "124.223.217.63"
+server_port = 724
+db_host = "127.0.0.1"
+db_port = 3306
+db_user = "root"
+db_password = "123456"
+db_name = "archive_system"
+client_window = "hide"
+save_archives_data = 1
+save_alarm_data = 1
+view_data_permission = 1
+control_permission = 2
+system_setting_permission = 2
+add_user_permission = 3
